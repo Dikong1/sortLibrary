@@ -3,7 +3,7 @@ Library consistnig of sorting algotirhms: quick sort, select sort, merge sort, i
 
 ## Usage
 1. Setup your project using "git clone"
-   ![image](https://github.com/Dikong1/sortLibrary/assets/84706388/8fdbd5c8-e8f8-4480-84a1-056d766187ad)
+![image](https://github.com/Dikong1/sortLibrary/assets/84706388/8fdbd5c8-e8f8-4480-84a1-056d766187ad)
 
 3. Install all dependencies if its necessary (for now library uses only default macros)
 4. Create your own file in "src" folder
