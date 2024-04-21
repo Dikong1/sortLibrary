@@ -31,6 +31,6 @@ This is examples of importing and using functions from library in tests.rs file:
 ![image](https://github.com/Dikong1/sortLibrary/assets/84706388/d0d5dec0-980c-4305-b4bb-5fb8bdf4caae)
 
 ## License
-This project is licensed under MIT License - see the 
+This project is licensed under MIT License - see the [https://github.com/Dikong1/sortLibrary/blob/main/LICENSE]
 
 
