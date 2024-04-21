@@ -1,5 +1,5 @@
 [package]
-name = "sortLibrary"
+name = "sort_library"
 version = "0.1.0"
 edition = "2021"
 
