@@ -25,4 +25,12 @@ OR
 2. Setup it in src folder of your own cargo project
 3. Import and use
 
+## Examples
+This is examples of importing and using functions from library in tests.rs file:
+![image](https://github.com/Dikong1/sortLibrary/assets/84706388/4e9aff40-31a2-430d-8517-266d2934dc5a)
+![image](https://github.com/Dikong1/sortLibrary/assets/84706388/d0d5dec0-980c-4305-b4bb-5fb8bdf4caae)
+
+## License
+This project is licensed under MIT License - see the 
+
 
